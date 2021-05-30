@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'water',
+  title: 'notion to wyszh248',
   author: 'YISHENG',
   email: 'haomazeng@163.com',
   link: 'wyszh248.top',
-  description: 'notion to wyszh248',
+  description: 'PAGES',
   lang: 'zh',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
