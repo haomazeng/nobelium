@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '深潜',
+  title: 'water',
   author: 'YISHENG',
   email: 'haomazeng@163.com',
   link: 'wyszh248.top',
-  description: '生生之谓易',
+  description: 'notion to wyszh248',
   lang: 'zh',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
